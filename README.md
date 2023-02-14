@@ -26,7 +26,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 **Clone this repository**
 
 ```bash
-git clone git@github.com:sammanthaps/web_scrapping.git
+git clone https://github.com/sammanthaps/web_scrapping.git
 ```
 
 **Go into the repository**
