@@ -2,7 +2,7 @@
   <br />
   <a href="https://www.canva.com/design/play?category=tACFapY0WQc&referrer=banners-landing-page">
     <img
-      src="./images/banner.gif"
+      src="./images/banner.png"
       alt=""
       width="1000"
   /></a>
