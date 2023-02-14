@@ -38,17 +38,17 @@ cd web_scrapping
 **Create a virtual enviroment**
 
 ```bash
-python3 -m venv env
+python3 -m venv .env
 ```
 
 **Activate your virtual enviroment**
 
 ```bash
 # Linux
-source env/bin/activate
+source .env/bin/activate
 
 # Windows
-env\Scripts\activate.bat
+.env\Scripts\activate.bat
 ```
 
 **Install dependencies**
