@@ -38,7 +38,7 @@ cd web_scrapping
 **Create a virtual enviroment**
 
 ```bash
-python3 venv env
+python3 -m venv env
 ```
 
 **Activate your virtual enviroment**
